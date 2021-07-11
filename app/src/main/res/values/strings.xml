@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyConverter</string>
+    <string name="tobe_convert">Meter(m) to Centimeter(cm) Conversion</string>
+    <string name="converted_values">50cm</string>
+    <string name="value">input</string>
+    <string name="conversion">CONVERT</string>
+</resources>
