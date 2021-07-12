@@ -19,6 +19,8 @@ class MainActivity : AppCompatActivity() {
         val input = binding.inputValue.toString()
         val valueInput = input.toInt()
         val output = valueInput * 100
+        lskdjfsjfkl
+        askjdfhkjsdf
 
         // val finalOutput= NumberFormat.getInstance().format(output)
 
